@@ -1,0 +1,15 @@
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\bin\Debug\net6.0\AaDS_Lab_3.exe
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\bin\Debug\net6.0\AaDS_Lab_3.deps.json
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\bin\Debug\net6.0\AaDS_Lab_3.runtimeconfig.json
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\bin\Debug\net6.0\AaDS_Lab_3.dll
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\bin\Debug\net6.0\AaDS_Lab_3.pdb
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.csproj.AssemblyReference.cache
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.AssemblyInfoInputs.cache
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.AssemblyInfo.cs
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.csproj.CoreCompileInputs.cache
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.dll
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\refint\AaDS_Lab_3.dll
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.pdb
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\AaDS_Lab_3.genruntimeconfig.cache
+D:\Users\ya202\source\repos\AaDS_Lab_3\AaDS_Lab_3\obj\Debug\net6.0\ref\AaDS_Lab_3.dll
